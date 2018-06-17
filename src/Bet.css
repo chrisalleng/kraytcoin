@@ -1,0 +1,47 @@
+.Centered-Text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Bet-Info-Box {
+  border: 2px solid #333;
+  border-radius: 5px;
+  margin: 5px;
+  height: 125px;
+
+}
+
+.Bet-Price-Box {
+  border: 2px solid #333;
+  border-radius: 5px;
+  vertical-align: center;
+  margin: 5px;
+  height: 30px;
+}
+
+.Bet-User-Price-Box {
+  border: 2px solid #333;
+  border-radius: 5px;
+  margin: 5px;
+  height: 90px;
+  display: flex;
+  align-items: center;
+}
+
+.Bet-Info-Cell {
+  border: 2px solid #333;
+  border-radius: 5px;
+}
+
+.GraphGoesHere {
+  margin: 5px;
+  border: 2px solid #333;
+  border-radius: 5px;
+  padding: 5px;
+  min-height: 100px;
+}
+
+.PriceSelectButton {
+}
